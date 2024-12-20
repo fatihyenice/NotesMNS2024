@@ -11,10 +11,14 @@
             "id": "b4d6ebb8e7f37267",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "GITHUB/Cours de GITHUB.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nouvel onglet"
+              "title": "Cours de GITHUB"
             }
           }
         ]
@@ -161,7 +165,7 @@
   "active": "b4d6ebb8e7f37267",
   "lastOpenFiles": [
     "Cours GITHUB.md",
-    "GITHUB/Cours GITHUB.md",
+    "GITHUB/Cours de GITHUB.md",
     "GITHUB",
     "Bienvenue.md",
     "Teste.md",
