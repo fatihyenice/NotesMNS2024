@@ -37,6 +37,9 @@ FIGMA:
 >   
 > 
 > N'hésitez pas à explorer le modèle et à l'utiliser comme base pour vos projets !
+
+2) Faire un WIREFRAME
+![[Pasted image 20250107093627.png]]
 # LIENS UTILES:
 Créative market
 (https://www.creativemarket.com)
