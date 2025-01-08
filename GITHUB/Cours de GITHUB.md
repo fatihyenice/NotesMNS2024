@@ -27,3 +27,7 @@
 
 > ### **PS: Après avoir fusionner les sous branches avec la branche master, toujours faire un PUSH**
 
+# Modification du code pour faire une revue de code
+
+Le but est de montrer les modifications sur GITHUB
+
