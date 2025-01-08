@@ -9,6 +9,14 @@
 
 ```
 
+Looping logiciel: 
+
+> Looping est un **logiciel de modélisation conceptuelle de données qui vous permet d'organiser et de structurer vos données en diagrammes et représentations graphiques ordonnées**. Looping est un logiciel portable et ne requiert pas d'installation préalable sur votre ordinateur.
+
+```
+Ce logiciel permet un gain de temps et la diminution de faire des erreurs. Il permet de faire les liaisons pour les base de données relationnel.
+https://www.looping-mcd.fr/
+```
 
 **PHPMYADMIN**:
 
