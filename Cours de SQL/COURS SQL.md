@@ -10,7 +10,9 @@
 ```
 
 
-PHPMYADMIN:
+**PHPMYADMIN**:
 
+```
 Modifier le MyIsam par InnoDB
 - Aller dans variables > et rechercher: default storage engine > remplacer MyIsam par InnoDB
+```
